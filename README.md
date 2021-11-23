@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/lmunoz-m?label=Follow&style=social)](https://github.com/lmunoz-m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
-[![Linkedin](https://img.shields.io/linkedin/followers/lmunoz-m?label=Follow&style=social)](www.linkedin.com/in/lucía-muñoz-martínez)
+[![Linkedin]](www.linkedin.com/in/lucía-muñoz-martínez)
 <!--
 **lmunoz-m/lmunoz-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
