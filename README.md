@@ -6,7 +6,9 @@
 ## Connect with me:
 #### :man_technologist: Echa un viztazo [Portfolio](https://lmunoz-m.github.io/)✨
 <p>
-[<img align="left" alt="lmunoz-m | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
+	<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
+		<img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
+   </a>
 </p>
 <br>
 
