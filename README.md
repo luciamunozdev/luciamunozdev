@@ -7,7 +7,7 @@
 #### :man_technologist: Echa un viztazo [Portfolio](https://lmunoz-m.github.io/)✨
 <p>
 	<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
-		<<img height="30em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
+		<img height="10em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
    </a>
 </p>
 <br>
