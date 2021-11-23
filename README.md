@@ -4,11 +4,16 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## Connect with me:
-[<img align="left" alt="lmunoz-m | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
+#### :man_technologist: Echa un viztazo [Portfolio](https://lmunoz-m.github.io/)✨
+<p>
+	<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
+		<img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
+   </a>
+</p>
 <br>
 
 
-## 🛠 <b><samp>Languages</samp></b>
+## 🛠 <b><samp>Languages and IDE</samp></b>
 <div>
 <!-- <img alt="Night Coding" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right"/> -->
 
