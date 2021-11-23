@@ -11,36 +11,6 @@
    </a>
 </p>
 
-## 🛠 <b><samp>Languages and IDE</samp></b>
-<div>
-<!-- <img alt="Night Coding" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right"/> -->
-
-![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<!--![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;-->
-![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-<!-- ![javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\ -->
-<!--![nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-<!--![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp; -->
-![django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-<!--![laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\ -->
-<!--![aws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp; -->
-<!--![azure](https://img.shields.io/badge/-Ms%20Azure-05122A?style=flat&logo=microsoftazure)&nbsp; -->
-<!--![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat&logo=digitalocean)&nbsp; -->
-<!--![heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)\ -->
-![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-<!--![jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp; -->
-<!--![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; -->
-<!--![k8](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)\ -->
-![mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-<!--![mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
-<!--![postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
-<!--![dynamodb](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazondynamodb)\ -->
-![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
-![AndriodStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
-</div>
-<!-- <br><br><br><br> -->
 
 ## :desktop_computer:	<b><samp> Operating Systems</samp></b>
 <div>
