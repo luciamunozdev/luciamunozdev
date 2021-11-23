@@ -3,7 +3,10 @@
 [![Github](https://img.shields.io/github/followers/lmunoz-m?label=Follow&style=social)](https://github.com/lmunoz-m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
-![<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/) <br>
+## Connect with me:
+[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
+<br>
+
 
 ## 🛠 <b><samp>Languages</samp></b>
 <div>
@@ -49,9 +52,7 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmunoz-m&theme=algolia" alt="lmunoz-m"/></p>
 
-## Connect with me:
 
-<br>
 
 <!--
 **lmunoz-m/lmunoz-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
