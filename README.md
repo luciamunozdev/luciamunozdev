@@ -3,6 +3,8 @@
 [![Github](https://img.shields.io/github/followers/lmunoz-m?label=Follow&style=social)](https://github.com/lmunoz-m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
+[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/) <br>
+
 ## 🛠 <b><samp>Languages</samp></b>
 <div>
 <!-- <img alt="Night Coding" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right"/> -->
@@ -41,14 +43,14 @@
 
 <p align="center">
 <a href="https://github.com/lmunoz-m">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmunoz-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lmunoz-m&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmunoz-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lmunoz-m&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmunoz-m&theme=algolia" alt="lmunoz-m"/></p>
 
 ## Connect with me:
-[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
+
 <br>
 
 <!--
