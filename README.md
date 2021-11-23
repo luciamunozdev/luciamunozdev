@@ -39,13 +39,14 @@
 </div>
 <!-- <br><br><br><br> -->
 
-### :desktop_computer:	Operating Systems
+## :desktop_computer:	<b><samp> Operating Systems</samp></b>
 <div>
 <p>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
    <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-</p></div>
+</p>
+</div>
 
 ## ⚙️ <b><samp>GitHub Analytics</b></samp>
 
