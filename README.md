@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## Connect with me:
-[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
+[<img align="left" alt="lmunoz-m | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
 <br>
 
 
@@ -39,6 +39,13 @@
 </div>
 <!-- <br><br><br><br> -->
 
+### :desktop_computer:	Operating Systems
+
+<p>
+   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
+   <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
+   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+</p>
 
 ## ⚙️ <b><samp>GitHub Analytics</b></samp>
 
