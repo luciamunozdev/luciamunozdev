@@ -10,8 +10,6 @@
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
    </a>
 </p>
-<br>
-
 
 ## 🛠 <b><samp>Languages and IDE</samp></b>
 <div>
