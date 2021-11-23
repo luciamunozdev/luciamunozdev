@@ -1,5 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lucía - aka [lmunoz-m](https://github.com/lmunoz-m) 🚀
 
+[![Github](https://img.shields.io/github/followers/lmunoz-m?label=Follow&style=social)](https://github.com/lmunoz-m)
+![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 <!--
 **lmunoz-m/lmunoz-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
