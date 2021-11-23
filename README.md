@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## Connect with me:
-[![Linkedin]<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
+[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png" />](https://www.linkedin.com/in/lucía-muñoz-martínez/)
 
 <!--
 **lmunoz-m/lmunoz-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
