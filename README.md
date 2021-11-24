@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lucía - aka [lmunoz-m](https://github.com/lmunoz-m) 🚀
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lucía Muñoz
 <!-- #### :man_technologist: Echa un viztazo [Portfolio](https://lmunoz-m.github.io/)✨ -->
 
 [![Github](https://img.shields.io/github/followers/lmunoz-m?label=Follow&style=social)](https://github.com/lmunoz-m)
