@@ -14,7 +14,7 @@
 </p>
 
 #### You can see more about me here :point_right:
-![Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)](https://cdn-icons-png.flaticon.com/512/124/124011.png)
+
 <a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
 </a>
