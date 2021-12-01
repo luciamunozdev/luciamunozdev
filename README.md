@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## Connect with me:
-- :v: I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.
+#### I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.
 <p>
 	<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
