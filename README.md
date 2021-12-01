@@ -13,10 +13,8 @@
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </p>
 
-<b > You can see more about me here &nbsp; :point_right: </b> &nbsp;
-<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
-		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
-</a>
+<b > You can see more about me here &nbsp; :point_right: </b> &nbsp; [Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)
+
 
 ## ⚙️ <b><samp>GitHub Analytics</b></samp>
 
