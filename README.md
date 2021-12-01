@@ -12,7 +12,7 @@
    <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </p>
-#### You can see more about me here ↪ 
+<b> You can see more about me here :point_right: </b>
 <a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
 </a>
