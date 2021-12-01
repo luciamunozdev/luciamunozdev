@@ -12,7 +12,7 @@
    <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </p>
-<b> You can see more about me here</b>
+<b> You can see more about me here [21AA]</b>
 <a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
 </a>
@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://github.com/lmunoz-m">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmunoz-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmunoz-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lmunoz-m&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
