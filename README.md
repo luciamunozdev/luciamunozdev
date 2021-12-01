@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## About me:
-<b>I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.</b>
+<b>I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid. Future student in 42 Madrid.</b>
 
 #### You can see more about me in [Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)
 
