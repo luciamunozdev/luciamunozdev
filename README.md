@@ -6,6 +6,8 @@
 ## About me:
 <b>I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.</b>
 
+#### You can see more about me in [Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)
+
 #### Operating Systems
 <p>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
@@ -13,7 +15,6 @@
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </p>
 
-#### You can see more about me in [Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)
 
 
 ## ⚙️ <b><samp>GitHub Analytics</b></samp>
