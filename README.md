@@ -1,10 +1,10 @@
 # Hi there I'm Lucía Muñoz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- #### :man_technologist: Echa un viztazo [Portfolio](https://lmunoz-m.github.io/)✨ -->
-
 [![Github](https://img.shields.io/github/followers/lmunoz-m?label=Follow&style=social)](https://github.com/lmunoz-m)
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## Connect with me:
+- :v: I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.
 <p>
 	<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
