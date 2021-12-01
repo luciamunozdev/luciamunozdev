@@ -4,12 +4,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## Connect with me:
-#### I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid. [[Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)](https://github.com/lmunoz-m)
-<p>
-	<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
+#### I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.
+
+<a href="https://www.linkedin.com/in/lucía-muñoz-martínez">
 		<img height="25em" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />
-   </a>
-</p>
+</a>
 
 
 ## :desktop_computer:	<b><samp> Operating Systems</samp></b>
