@@ -4,9 +4,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## About me:
-<b><samp>I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.</b></samp>
+<b>I'm in my last year of Computer Engineer at Universidad Politecnica de Madrid.</b>
 
-<b><samp>Operating Systems</b></samp>
+<b>Operating Systems</b>
 <p>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
    <img alt="Macos" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
