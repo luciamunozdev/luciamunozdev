@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://github.com/lmunoz-m">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lmunoz-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmunoz-m&layout=default&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmunoz-m&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
