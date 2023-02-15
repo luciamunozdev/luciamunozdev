@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lmunoz-m.lmunoz-m)
 
 ## About me:
-<b>Working as a Junior Web3 Developer in Telefónica. Computer Engineer at University Politécnica de Madrid. Student in 42 Madrid.</b>
+<b>Working as a Backend & Blockchain Developer @ Telefónica. Computer Engineer at University Politécnica de Madrid. Student in 42 Madrid.</b>
 
 #### You can see more about me in [Linkedin](https://www.linkedin.com/in/lucía-muñoz-martínez)
 
@@ -29,18 +29,3 @@
 </p>
 
 
-
-<!--
-**lmunoz-m/lmunoz-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
