@@ -25,7 +25,6 @@ I'm currently developing professionally in the blockchain world but I love explo
 [![Github](https://img.shields.io/github/followers/luciamunozdev?label=Follow&style=social)](https://github.com/luciamunozdev)
 ![](https://visitor-badge.laobi.icu/badge?page_id=luciamunzodev.luciamunozdev)
 
-<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -46,7 +45,6 @@ I'm currently developing professionally in the blockchain world but I love explo
 ![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Decentralized apps](https://img.shields.io/badge/-Decentralized%20apps-05122A?style=flat&logo=decentralized%20apps)&nbsp;
 
-<br/>
 
 ### **You can also find me on:**
 
