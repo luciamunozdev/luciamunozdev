@@ -14,7 +14,7 @@ I'm currently developing professionally in the blockchain world but I love explo
 - 🖥️ &nbsp; I’m currently working at **Telefónica** as a blockchain & backend developer.
 - 🌱 &nbsp; I’m currently learning blockchain technologies.
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/luciamunozdev?tab=repositories).
-- 🗣️ &nbsp;I had the pleasure of speaking at T3chfest, a technology conference. If you missed it, you can watch the talk [here](https://www.youtube.com/watch?v=4iTlBXYTPvI&t=943s).
+- 🗣️ &nbsp;I had the pleasure of speaking at T3chfest, a technology conference. If you missed it, you can watch the talk [here](https://www.youtube.com/watch?v=4iTlBXYTPvI).
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/luciamunozmartinez/).
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
 - 🕺🏻 &nbsp; Outside of programming, I enjoy playing sports and attending salsa classes.
