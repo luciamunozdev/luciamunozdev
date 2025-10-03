@@ -11,7 +11,7 @@ I'm currently developing professionally in the blockchain world but I love explo
   
 ### 🧐 More About Me:
 
-- 🖥️ &nbsp; I’m currently working at **The Hashgraph Association** as a Associate Solution Engineer.
+- 🖥️ &nbsp; I’m currently working at **The Hashgraph Association** as a Solution Engineer.
 - 🌱 &nbsp; I’m currently learning blockchain technologies.
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/luciamunozdev?tab=repositories).
 - 🗣️ &nbsp;I had the pleasure of speaking at T3chfest, a technology conference. If you missed it, you can watch the talk [here](https://www.youtube.com/watch?v=4iTlBXYTPvI).
