@@ -62,9 +62,6 @@ I'm currently developing professionally in the blockchain world but I love explo
 <br/>
 <br/>
 
-### ☕️ &nbsp; If you like what i do, you can buy me a coffee 
-<a href="https://www.buymeacoffee.com/luciamunozdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <!-- ## ⚙️ <b><samp>GitHub Analytics</b></samp>
  -->
 <br>
